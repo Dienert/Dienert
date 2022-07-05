@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am happy to chat about AI, Data Science, scraping, dataviz or anything else.
+I am happy to chat about AI, Data Science, data scraping, dataviz or anything else.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dienert&theme=dark&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
